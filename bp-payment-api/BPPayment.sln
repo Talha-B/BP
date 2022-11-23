@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPPayment", "BPPayment\BPPayment.csproj", "{91985272-3C9B-4E2F-A171-DFC9A3E60607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPPayment.UnitTests", "BPPayment.UnitTests\BPPayment.UnitTests.csproj", "{39728CDC-AA7F-462F-8B81-9F43F0D0FE18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91985272-3C9B-4E2F-A171-DFC9A3E60607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91985272-3C9B-4E2F-A171-DFC9A3E60607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91985272-3C9B-4E2F-A171-DFC9A3E60607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91985272-3C9B-4E2F-A171-DFC9A3E60607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39728CDC-AA7F-462F-8B81-9F43F0D0FE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39728CDC-AA7F-462F-8B81-9F43F0D0FE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39728CDC-AA7F-462F-8B81-9F43F0D0FE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39728CDC-AA7F-462F-8B81-9F43F0D0FE18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62C45EE6-8346-4931-8B37-53DA02801DCE}
+	EndGlobalSection
+EndGlobal
